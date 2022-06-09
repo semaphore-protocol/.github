@@ -6,7 +6,16 @@ Semaphore is a protocol, designed to be a simple and generic privacy layer for E
 
 Join our [Telegram group](https://t.me/joinchat/B-PQx1U3GtAh--Z4Fwo56A) or visit our [website](https://semaphore.appliedzkp.org).
 
-<!-- #### Ways to contribute-->
+#### Ways to contribute
+
+* 🔧 Work on [open issues](https://github.com/semaphore-protocol/semaphore/contribute)
+* 📖 Suggest new terms for our [glossary](https://semaphore.appliedzkp.org/docs/glossary) ([website-issue](https://github.com/semaphore-protocol/website/issues/new?assignees=&labels=documentation&template=---glossary-term.md&title=))
+* 🕸️ Propose new networks for our [deployed contracts](https://semaphore.appliedzkp.org/docs/deployed-contracts) ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=&template=----network.md&title=))
+* 📦 Suggest new developer tools ([semaphore.js](https://github.com/semaphore-protocol/semaphore.js/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---package.md&title=))
+* 🚀 Share ideas for new features ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---feature.md&title=), [semaphore.js-issue](https://github.com/semaphore-protocol/semaphore.js/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---feature.md&title=))
+* 🐛 Create a report if you find any bugs in the code ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=bug+%F0%9F%90%9B&template=---bug.md&title=), [semaphore.js-issue](https://github.com/semaphore-protocol/semaphore.js/issues/new?assignees=&labels=bug+%F0%9F%90%9B&template=---bug.md&title=))
+
+Any pull requests are more than welcome, but remember to create an issue first!
 
 #### Who are we?
 
