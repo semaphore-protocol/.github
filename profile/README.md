@@ -23,4 +23,4 @@ As a Semaphore contributor, you'll be able to claim a special [GitPOAP](https://
 
 #### Who are we?
 
-Semaphore is part of [Privacy & Scaling Explorations](https://projects.appliedzkp.org/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero knowledge proofs and other cryptographic primitives.
+Semaphore is part of [Privacy & Scaling Explorations](https://appliedzkp.org/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero knowledge proofs and other cryptographic primitives.
