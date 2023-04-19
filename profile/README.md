@@ -21,10 +21,6 @@ As a Semaphore contributor, you'll be able to claim a special [GitPOAP](https://
 > **Warning**  
 > Any pull requests are more than welcome, but remember to create an issue first!
 
-#### Are you already using Semaphore for your project?
-
-You can add your project in our [community projects](https://github.com/semaphore-protocol/community-projects) repo!
-
 #### Who are we?
 
 Semaphore is part of [Privacy & Scaling Explorations](https://appliedzkp.org/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero knowledge proofs and other cryptographic primitives.
