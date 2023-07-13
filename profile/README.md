@@ -4,7 +4,11 @@ Semaphore is a protocol, designed to be a simple and generic privacy layer for E
 
 #### Looking for more information?
 
-Join our [Discord server](https://semaphore.appliedzkp.org/discord) or visit our [website](https://semaphore.appliedzkp.org).
+* Website: https://semaphore.appliedzkp.org
+* Discord: https://semaphore.appliedzkp.org/discord
+* Demo: https://demo.semaphore.appliedzkp.org
+* Explorer: https://explorer.semaphore.appliedzkp.org
+* Benchmarks: https://benchmarks.semaphore.appliedzkp.org
 
 #### Ways to contribute
 
