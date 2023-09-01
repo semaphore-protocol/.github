@@ -4,17 +4,17 @@ Semaphore is a protocol, designed to be a simple and generic privacy layer for E
 
 #### Looking for more information?
 
-* Website: https://semaphore.appliedzkp.org
-* Discord: https://semaphore.appliedzkp.org/discord
-* Demo: https://demo.semaphore.appliedzkp.org
-* Explorer: https://explorer.semaphore.appliedzkp.org
-* Benchmarks: https://benchmarks.semaphore.appliedzkp.org
+* Website: https://semaphore.pse.dev
+* Discord: https://semaphore.pse.dev/discord
+* Demo: https://demo.semaphore.pse.dev
+* Explorer: https://explorer.semaphore.pse.dev
+* Benchmarks: https://benchmarks.semaphore.pse.dev
 
 #### Ways to contribute
 
 * 🔧 Work on [open issues](https://github.com/semaphore-protocol/semaphore/contribute)
-* 📖 Suggest new terms for our [glossary](https://semaphore.appliedzkp.org/docs/glossary) ([website-issue](https://github.com/semaphore-protocol/website/issues/new?assignees=&labels=documentation&template=---glossary-term.md&title=))
-* 🕸️ Propose new networks for our [deployed contracts](https://semaphore.appliedzkp.org/docs/deployed-contracts) ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=&template=----network.md&title=))
+* 📖 Suggest new terms for our [glossary](https://semaphore.pse.dev/docs/glossary) ([website-issue](https://github.com/semaphore-protocol/website/issues/new?assignees=&labels=documentation&template=---glossary-term.md&title=))
+* 🕸️ Propose new networks for our [deployed contracts](https://semaphore.pse.dev/docs/deployed-contracts) ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=&template=----network.md&title=))
 * 📦 Suggest new developer tools ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---package.md&title=))
 * 💠 Share your Semaphore project with us ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=documentation++%F0%9F%93%96&template=----project.md&title=))
 * 🚀 Share ideas for new features ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---feature.md&title=))
@@ -27,4 +27,4 @@ As a Semaphore contributor, you'll be able to claim a special [GitPOAP](https://
 
 #### Who are we?
 
-Semaphore is part of [Privacy & Scaling Explorations](https://appliedzkp.org/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero knowledge proofs and other cryptographic primitives.
+Semaphore is part of [Privacy & Scaling Explorations](https://pse.dev/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero knowledge proofs and other cryptographic primitives.
