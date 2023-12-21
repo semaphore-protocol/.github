@@ -5,6 +5,7 @@ Semaphore is a protocol, designed to be a simple and generic privacy layer for E
 #### Looking for more information?
 
 * Website: https://semaphore.pse.dev
+* Documentation: https://docs.semaphore.pse.dev
 * Discord: https://semaphore.pse.dev/discord
 * Demo: https://demo.semaphore.pse.dev
 * Explorer: https://explorer.semaphore.pse.dev
