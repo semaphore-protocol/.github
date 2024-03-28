@@ -7,6 +7,7 @@ Semaphore is a generic privacy layer. Leveraging zero-knowledge technology, user
 * Website: https://semaphore.pse.dev
 * Documentation: https://docs.semaphore.pse.dev
 * Discord: https://semaphore.pse.dev/discord
+* Twitter: https://semaphore.pse.dev/twitter
 * Demo: https://demo.semaphore.pse.dev
 * Explorer: https://explorer.semaphore.pse.dev
 * Benchmarks: https://benchmarks.semaphore.pse.dev
