@@ -21,7 +21,7 @@ Semaphore is a generic privacy layer. Leveraging zero-knowledge technology, user
 * 🚀 Share ideas for new features ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=feature+%3Arocket%3A&template=---feature.md&title=))
 * 🐛 Create a report if you find any bugs in the code ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=bug+%F0%9F%90%9B&template=---bug.md&title=))
 
-As a Semaphore contributor, you'll be able to claim a special [GitPOAP](https://www.gitpoap.io/gp/932) per year 🏅
+As a Semaphore contributor, you'll be able to claim a special GitPOAP per year 🏅
 
 > **Warning**  
 > Any pull requests are more than welcome, but remember to create an issue first!
