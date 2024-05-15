@@ -24,7 +24,7 @@ Semaphore is a generic privacy layer. Leveraging zero-knowledge technology, user
 
 As a Semaphore contributor, you'll be able to claim a special GitPOAP per year 🏅
 
-> **Warning**  
+> [!IMPORTANT]  
 > Any pull requests are more than welcome, but remember to create an issue first!
 
 #### Who are we?
