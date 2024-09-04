@@ -15,7 +15,7 @@ Semaphore is a generic privacy layer. Leveraging zero-knowledge technology, user
 
 #### Ways to contribute
 
-* 🌟 Submit your idea to PSE's [acceleration program](https://github.com/privacy-scaling-explorations/acceleration-program).
+* 🌟 Submit your idea to PSE's [acceleration program](https://github.com/privacy-scaling-explorations/acceleration-program) (check out this [discussion](https://github.com/orgs/semaphore-protocol/discussions/463) for potential ideas).
 * 🔧 Work on [open issues](https://github.com/semaphore-protocol/semaphore/contribute)
 * 📖 Suggest new terms for our [glossary](https://semaphore.pse.dev/docs/glossary) ([website-issue](https://github.com/semaphore-protocol/website/issues/new?assignees=&labels=documentation&template=---glossary-term.md&title=))
 * 🕸️ Propose new networks for our [deployed contracts](https://semaphore.pse.dev/docs/deployed-contracts) ([semaphore-issue](https://github.com/semaphore-protocol/semaphore/issues/new?assignees=&labels=&template=----network.md&title=))
